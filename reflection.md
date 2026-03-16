@@ -6,7 +6,10 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
-  (for example: "the hints were backwards").
+   (for example: "the hints were backwards").
+  "Press enter to apply" didn't work
+  The hint told me to go higher when the answer was lower
+  Hint told me to go higher than the range bounds
 
 ---
 
